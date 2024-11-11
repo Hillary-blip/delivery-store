@@ -1,0 +1,39 @@
+.delivery {
+    background: rgb(227, 236, 245);
+}
+
+.delivery__title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+    color: rgb(247, 210, 45);
+    margin-top: 20px;
+}
+
+.delivery__inner {
+    display: flex;
+    justify-content: space-around;
+    margin: 60px 0 20px;
+
+}
+
+.delivery__block {
+    border-radius: 14px;
+    max-width: 250px;
+    width: 100%;
+    box-shadow: 0px 4px 24px 0px rgba(0, 0, 0, 0.03);
+    background: rgb(255, 255, 255);
+    text-align: center;
+    padding: 40px 20px 10px;
+    position: relative;
+}
+
+.img-block {
+    width: 77px;
+    height: 75px;
+    background: #fff;
+    position: absolute;
+    top: -30px;
+    left: 35%;
+    border-radius: 50%;
+}

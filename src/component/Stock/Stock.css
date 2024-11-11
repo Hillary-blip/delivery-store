@@ -1,0 +1,27 @@
+.stock__title {
+    font-size: 44px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.stock__highlight {
+    color: rgb(247, 210, 45);
+    font-size: 44px;
+    font-weight: 800;
+    margin-left: 7px;
+}
+
+.stock__inner {
+    display: flex;
+    gap: 25px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.stock__list {
+    display: flex;
+    gap: 25px;
+    flex-wrap: wrap;
+    max-width: 550px;
+    width: 100%;
+}
